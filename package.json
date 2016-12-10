@@ -1,0 +1,27 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "leveling up tuts 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitsydwag/devtuts.git"
+  },
+  "keywords": [
+    "tuts",
+    "tutorial"
+  ],
+  "author": "Dwayne Codling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitsydwag/devtuts/issues"
+  },
+  "homepage": "https://github.com/fitsydwag/devtuts#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
