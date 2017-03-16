@@ -8,15 +8,8 @@ var config = {
   shape: {
     spacing: {
       padding: 1
-<<<<<<< HEAD
     }
   },
-=======
-
-    }
-  },
-
->>>>>>> create-modal
   mode: {
     css: {
       variables: {
